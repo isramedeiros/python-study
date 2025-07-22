@@ -2,13 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-<<<<<<< HEAD
-    <mapping directory="$PROJECT_DIR$/python-study" vcs="Git" />
-=======
-<<<<<<< HEAD
-    <mapping directory="$PROJECT_DIR$/python-study" vcs="Git" />
-=======
->>>>>>> 43f1e232e88e1fcc56eeee1664ba625cc9bceb9c
->>>>>>> 34ccbd7477a0c1359b1b2096f2263ecf71c42b33
   </component>
 </project>
